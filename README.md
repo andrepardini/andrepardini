@@ -67,12 +67,7 @@ Cisco
 <a href=#><img alt ="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
 <a href=#><img alt ="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href=#><img alt ="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-<a href=#><img alt ="" src=""></a>
-<a href=#><img alt ="" src=""></a>
-<a href=#><img alt ="" src=""></a>
-<a href=#><img alt ="" src=""></a>
 
-https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
 
 <!---
